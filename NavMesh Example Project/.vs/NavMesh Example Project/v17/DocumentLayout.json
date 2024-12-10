@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\unity projects\\navmesh-tutorial\\navmesh example project\\assets\\myscripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\assets\\myscripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4938CD81-C382-AFDF-750D-1DA4902B7F33}|Assembly-CSharp-Editor.csproj|C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\assets\\navmeshcomponents\\editor\\navmeshsurfaceeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4938CD81-C382-AFDF-750D-1DA4902B7F33}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\navmeshcomponents\\editor\\navmeshsurfaceeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\assets\\myscripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|c:\\unity projects\\navmesh-tutorial\\navmesh example project\\assets\\myscripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\assets\\myscripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\assets\\myscripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97C8EAA0-FC90-106A-C44A-D619E6D5270E}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\moveto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\unity projects\\navmesh-tutorial\\navmesh example project\\assets\\myscripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\myscripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:13:25.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SwitchScene.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\SwitchScene.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\SwitchScene.cs",
+              "ToolTip": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\SwitchScene.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\SwitchScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:07:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\GameManager.cs",
+              "ToolTip": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\GameManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwEEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:59:13.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMeshSurfaceEditor.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\NavMeshComponents\\Editor\\NavMeshSurfaceEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\NavMeshComponents\\Editor\\NavMeshSurfaceEditor.cs",
+              "ToolTip": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\NavMeshComponents\\Editor\\NavMeshSurfaceEditor.cs",
+              "RelativeToolTip": "Assets\\NavMeshComponents\\Editor\\NavMeshSurfaceEditor.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAD4v3QAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:52:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\MyScripts\\EnemyAI.cs",
@@ -42,25 +107,23 @@
               "RelativeToolTip": "Assets\\MyScripts\\EnemyAI.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T04:12:24.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T04:12:24.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\MyScripts\\PlayerController.cs",
               "ToolTip": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\MyScripts\\PlayerController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T03:51:46.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T03:51:46.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LevelGenerator.cs",
               "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\Example03 - Runtime\\LevelGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Example03 - Runtime\\LevelGenerator.cs",
@@ -72,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MoveToClickPoint.cs",
               "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\MoveToClickPoint.cs",
               "RelativeDocumentMoniker": "Assets\\MyScripts\\MoveToClickPoint.cs",
@@ -84,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MoveTo.cs",
               "DocumentMoniker": "C:\\Unity Projects\\NavMesh-Tutorial\\NavMesh Example Project\\Assets\\MyScripts\\MoveTo.cs",
               "RelativeDocumentMoniker": "Assets\\MyScripts\\MoveTo.cs",
